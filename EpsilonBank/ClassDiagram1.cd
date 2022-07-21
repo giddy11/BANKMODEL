@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EpsilonBank.Models.Account" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIAAQAAAAAAAABAAAIAAAAgAEAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Models\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.Models.AccountHistory" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAgAAAAAAAAABAAAAAAAEgAAAAA=</HashCode>
+      <FileName>Models\AccountHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.Models.Address" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAQAAAAAAAIAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Models\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.Models.Customer" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAIAAAEAAQAAAAAAAAACCAAAAAgAAAAg=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.UI.BankOperations" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAAEEAEAAAIAAACAAAAAAAAAIAEAAAAAAAAAA=</HashCode>
+      <FileName>UI\BankOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.UI.Home" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.UI.LoginMenu" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>UI\LoginMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.UI.Table" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAABCAAAAABAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>UI\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.Utilities.AccountNumberGenerator" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\AccountNumberGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.Utilities.UserCreator" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAABAAQAAAAAAAAAIAAAEAAAAA=</HashCode>
+      <FileName>Utilities\UserCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EpsilonBank.Utilities.Validator" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAIACAAAAAAgAAAACAAIEAAAA=</HashCode>
+      <FileName>Utilities\Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EpsilonBank.Models.AccountType" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AccountType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

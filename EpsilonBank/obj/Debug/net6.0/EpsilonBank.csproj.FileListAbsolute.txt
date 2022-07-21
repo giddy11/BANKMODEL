@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\bin\Debug\net6.0\EpsilonBank.exe
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\bin\Debug\net6.0\EpsilonBank.deps.json
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\bin\Debug\net6.0\EpsilonBank.runtimeconfig.json
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\bin\Debug\net6.0\EpsilonBank.dll
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\bin\Debug\net6.0\EpsilonBank.pdb
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.AssemblyInfo.cs
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.dll
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\refint\EpsilonBank.dll
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.pdb
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\EpsilonBank.genruntimeconfig.cache
+C:\Users\hp\Desktop\General\DecagonWeekTasks\Week3\EpsilonBank\EpsilonBank\obj\Debug\net6.0\ref\EpsilonBank.dll
